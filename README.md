@@ -58,22 +58,5 @@ This project analyzes YouTube trending video data from multiple countries to unc
 - **Trending durations are short** (1–2 days per video).
 - **BTS** videos dominate likes/comments in both US and GB.
 
-## 📦 Project Structure
-
-youtube-trending/
-├── datasets/
-│ ├── USvideos.csv
-│ ├── GBvideos.csv
-│ ├── INvideos.csv
-├── notebooks/
-│ ├── sentiment_analysis.ipynb
-│ ├── sql_queries.ipynb
-├── sql/
-│ └── youtube_trending.db
-├── dashboard/
-│ ├── youtube_dashboard.csv
-│ ├── category_avg_views.csv
-│ ├── visuals.png
-├── report/
-│ └── Youtube_Trending_Analytics_Report.pdf
-└── README.md
+## 📦 Project files
+[Trending YouTube Video Statistics](https://drive.google.com/drive/folders/1DiXGPdSZESAJqpV_ZEdwqCR_Y7gu1A6c?usp=drive_link)
